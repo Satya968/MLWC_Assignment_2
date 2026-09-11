@@ -1,0 +1,4 @@
+Feature set,Purity (%)
+"Cartesian (xI, xQ)",100.0
+"Polar (r, theta)",100.0
+"Combined standardized (r, xI, xQ, theta)",100.0

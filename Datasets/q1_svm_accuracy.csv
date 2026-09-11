@@ -1,0 +1,43 @@
+SNR (dB),Classifier,Accuracy (%)
+0,Kurtosis,61.5
+0,Skewness,61.5
+0,Rising time (ns),85.25
+0,RMS delay spread (ns),88.5
+0,Rician K-factor,65.75
+0,All five features,88.25
+5,Kurtosis,84.5
+5,Skewness,84.25
+5,Rising time (ns),88.0
+5,RMS delay spread (ns),90.0
+5,Rician K-factor,87.75
+5,All five features,95.5
+10,Kurtosis,93.5
+10,Skewness,93.5
+10,Rising time (ns),92.75
+10,RMS delay spread (ns),93.0
+10,Rician K-factor,96.25
+10,All five features,99.25
+15,Kurtosis,94.5
+15,Skewness,94.75
+15,Rising time (ns),96.75
+15,RMS delay spread (ns),97.25
+15,Rician K-factor,96.75
+15,All five features,99.75
+20,Kurtosis,94.5
+20,Skewness,94.5
+20,Rising time (ns),96.75
+20,RMS delay spread (ns),98.25
+20,Rician K-factor,97.5
+20,All five features,99.5
+25,Kurtosis,95.25
+25,Skewness,95.25
+25,Rising time (ns),97.75
+25,RMS delay spread (ns),98.25
+25,Rician K-factor,98.0
+25,All five features,99.75
+30,Kurtosis,95.0
+30,Skewness,94.75
+30,Rising time (ns),98.0
+30,RMS delay spread (ns),98.75
+30,Rician K-factor,98.0
+30,All five features,99.75
